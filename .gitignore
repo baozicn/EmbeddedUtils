@@ -1,0 +1,48 @@
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.a
+*.so
+*.dll
+
+# Executables
+*.exe
+*.out
+*.elf
+
+# Debug
+*.map
+*.hex
+*.lst
+
+# Build directories
+build/
+build*/
+Debug/
+Release/
+
+# Precompiled headers
+*.gch
+
+# Compiler caches
+*.dep
+*.d
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor and IDE files
+*.swp
+*.swo
+*.user
+*.uvprojx
+*.uvoptx
+*.cproject
+*.project
+
+# Other
+__pycache__/
+*.pyc
